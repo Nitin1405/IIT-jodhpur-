@@ -5,5 +5,5 @@ def isPrime(x):
         else:
             return True
 
-fltrObj=filter(isPrime, range(10))
-print ('Prime numbers between 1-10:', list(fltrObj))
+obj1=filter(isPrime, range(10))
+print ('Prime numbers between 1-10:', list(Obj1))
